@@ -1,0 +1,13 @@
+﻿  G.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\utility(275,16): warning C4244: инициализация: преобразование "_Ty" в "_Ty1", возможна потеря данных
+          with
+          [
+              _Ty=__int64
+          ]
+          and
+          [
+              _Ty1=int
+          ]
+C:\Users\Cake\Desktop\programs\tinkoff\contest 10\G\G.cpp(72,57): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::pair<int,int>::pair<__int64,int,0>(std::pair<__int64,int> &&) noexcept"
+C:\Users\Cake\Desktop\programs\tinkoff\contest 10\G\G.cpp(72,36): message : см. первую ссылку на "std::pair<int,int>::pair" в "Graph::shortestPath"
+  G.vcxproj -> C:\Users\Cake\Desktop\programs\tinkoff\contest 10\G\x64\Debug\G.exe

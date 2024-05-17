@@ -1,0 +1,5 @@
+﻿  D.cpp
+C:\Users\Cake\Desktop\programs\tinkoff\contest9\D\D.cpp(28,19): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Cake\Desktop\programs\tinkoff\contest9\D\D.cpp(137,21): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Cake\Desktop\programs\tinkoff\contest9\D\D.cpp(137,17): warning C4244: инициализация: преобразование "double" в "const int", возможна потеря данных
+  D.vcxproj -> C:\Users\Cake\Desktop\programs\tinkoff\contest9\D\x64\Debug\D.exe

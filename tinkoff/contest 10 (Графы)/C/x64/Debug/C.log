@@ -1,0 +1,5 @@
+﻿  C.cpp
+C:\Users\Cake\Desktop\programs\tinkoff\contest 10\C\C.cpp(84,14): warning C4244: +=: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\Cake\Desktop\programs\tinkoff\contest 10\C\C.cpp(129,16): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\Cake\Desktop\programs\tinkoff\contest 10\C\C.cpp(138,10): warning C4101: v2: неиспользованная локальная переменная
+  C.vcxproj -> C:\Users\Cake\Desktop\programs\tinkoff\contest 10\C\x64\Debug\C.exe

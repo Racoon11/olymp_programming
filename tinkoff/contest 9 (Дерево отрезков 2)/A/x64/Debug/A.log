@@ -1,0 +1,4 @@
+﻿  A.cpp
+C:\Users\Cake\Desktop\programs\tinkoff\contest9\A\A.cpp(24,19): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Cake\Desktop\programs\tinkoff\contest9\A\A.cpp(148,21): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+  A.vcxproj -> C:\Users\Cake\Desktop\programs\tinkoff\contest9\A\x64\Debug\A.exe

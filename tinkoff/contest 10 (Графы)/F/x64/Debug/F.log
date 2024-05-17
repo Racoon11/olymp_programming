@@ -1,0 +1,17 @@
+﻿  F.cpp
+C:\Users\Cake\Desktop\programs\tinkoff\contest 10\F\F.cpp(109,33): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\Cake\Desktop\programs\tinkoff\contest 10\F\F.cpp(118,29): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\Cake\Desktop\programs\tinkoff\contest 10\F\F.cpp(119,34): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\Cake\Desktop\programs\tinkoff\contest 10\F\F.cpp(119,18): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\utility(275,16): warning C4244: инициализация: преобразование "_Ty" в "_Ty1", возможна потеря данных
+          with
+          [
+              _Ty=__int64
+          ]
+          and
+          [
+              _Ty1=int
+          ]
+C:\Users\Cake\Desktop\programs\tinkoff\contest 10\F\F.cpp(53,57): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::pair<int,int>::pair<__int64,int,0>(std::pair<__int64,int> &&) noexcept"
+C:\Users\Cake\Desktop\programs\tinkoff\contest 10\F\F.cpp(53,36): message : см. первую ссылку на "std::pair<int,int>::pair" в "Graph::shortestPath"
+  F.vcxproj -> C:\Users\Cake\Desktop\programs\tinkoff\contest 10\F\x64\Debug\F.exe
